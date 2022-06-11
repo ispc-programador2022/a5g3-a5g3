@@ -1,0 +1,21 @@
+![172445821-245dee9a-7c37-4f00-97b4-7c03965467f3](https://user-images.githubusercontent.com/105888331/173205673-c8ded2e2-6f02-4b6a-b370-a13a5e046e60.png)
+
+
+TECNICATURA EN CIENCIAS DE DATOS E INTELIGENCIA ARTIFICIAL
+
+BIENVENIDOS AL AULA 5-GRUPO 3 COHORTE 2022
+
+Colaboradores:
+
+• Tomás Escobar
+
+•
+
+•
+
+•
+
+•
+
+•
+
