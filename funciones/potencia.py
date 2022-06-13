@@ -3,5 +3,4 @@
 def potencia():
   base= int(input("Ingrese la base: "))
   exponente= int(input("Ingrese el exponente: "))
-  resultado = base**exponente
-  print(base,"elevado a", exponente, "es ", resultado)
+  return base**exponente
