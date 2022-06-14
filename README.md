@@ -16,9 +16,9 @@ Colaboradores:
 
 • [Ferreira, Juan David.](https://github.com/juniors90)
 
-• [Feraboli, Germán Alejandro.](https://github.com/IAferaboli)
+• [Feraboli, Germán Alejandro.](https://gith(ub.com/IAferaboli)
 
-•
+• [Silvia Ferragutti](https://github.com/ferrsil)
 
 •
 
