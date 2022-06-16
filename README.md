@@ -22,7 +22,7 @@ Colaboradores:
 
 • [Espada, Cecilia](https://github.com/ceciespada) 
 
-•
+• [Fehr, Julieta](https://github.com/julietacfehr) 
 
 ## Contributors
 
