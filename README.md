@@ -18,7 +18,7 @@ Colaboradores:
 
 • [Feraboli, Germán Alejandro.](https://github.com/IAferaboli)
 
-• [Silvia Ferragutti](https://github.com/ferrsil)
+• [Ferragutti, Silvia](https://github.com/ferrsil)
 
 • [Espada, Cecilia](https://github.com/ceciespada) 
 
