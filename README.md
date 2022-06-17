@@ -24,6 +24,8 @@ Colaboradores:
 
 • [Fehr, Julieta](https://github.com/julietacfehr) 
 
+• [Fioranelli, Bruno](https://github.com/brufio) 
+
 ## Contributors
 
 <a href="https://github.com/ispc-programador2022/a5g3-a5g3/graphs/contributors">
