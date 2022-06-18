@@ -24,7 +24,22 @@ Colaboradores:
 
 • [Fehr, Julieta](https://github.com/julietacfehr) 
 
-• [Fioranelli, Bruno](https://github.com/brufio) 
+• [Fioranelli, Bruno](https://github.com/brufio)
+
+## Testing
+
+Para checkear que el código de alguna función función esté realizando
+lo que se solicita en los requerimientos, podemos ejecutar por consola,
+por ejemplo:
+
+```
+$> python -m doctest funciones/varianza.py
+$>
+```
+
+- No todas poseen (por el momento) esta funcionalidad.
+
+
 
 ## Contributors
 
