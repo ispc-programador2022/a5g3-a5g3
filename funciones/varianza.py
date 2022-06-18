@@ -28,7 +28,7 @@ funcion que calcule la varianza del vector obtenido en genrnd.
 # =============================================================================
 
 def varianza(vector: list) -> float:
-    """Permite calcular la varianza del vector cualquira.
+    """Permite calcular la varianza de un vector cualquira.
 
     Parameters
     ----------
@@ -49,7 +49,7 @@ def varianza(vector: list) -> float:
     Examples
     --------
 
-    >>> # Escribimos una lista 'fija' para testear
+    >>> # Escribimos una lista 'fija' para testear:
     >>> vector = [2, 4, 3, 6, 7, 33, 75, 30]
     >>> varianza_de_lista_ramdom = varianza(vector=vector)
     >>> varianza_de_lista_ramdom
