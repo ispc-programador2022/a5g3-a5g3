@@ -28,9 +28,9 @@ Colaboradores:
 
 ## Testing
 
-Para checkear que el código de alguna función función esté realizando
-lo que se solicita en los requerimientos, podemos ejecutar por consola,
-por ejemplo:
+Para checkear que el código de alguna función esté realizando
+lo que se solicita en los requerimientos, podemos ejecutar por
+consola, por ejemplo:
 
 ```
 $> python -m doctest funciones/varianza.py
