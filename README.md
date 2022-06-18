@@ -39,8 +39,6 @@ $>
 
 - No todas poseen (por el momento) esta funcionalidad.
 
-
-
 ## Contributors
 
 <a href="https://github.com/ispc-programador2022/a5g3-a5g3/graphs/contributors">
