@@ -55,7 +55,7 @@ def varianza(vector: list) -> float:
     >>> varianza_de_lista_ramdom
     566.0
     >>> # si usamos la función genrnd
-    >>> from genrnd import genrnd
+    >>> from funciones.genrnd import genrnd
     >>> vector1 = genrnd()
     >>> varianza_de_lista_ramdom = varianza(vector=vector1)
     >>> # varianza_de_lista_ramdom contiene la varianza correspondiente

@@ -37,6 +37,45 @@ $> python -m doctest funciones/varianza.py
 $>
 ```
 
+Para obtener más detalles, usamos la bandera `-v`:
+
+```
+$> python -m doctest funciones/varianza.py -v     
+Trying:
+    vector = [2, 4, 3, 6, 7, 33, 75, 30]
+Expecting nothing
+ok
+Trying:
+    varianza_de_lista_ramdom = varianza(vector=vector)
+Expecting nothing
+ok
+Trying:
+    varianza_de_lista_ramdom
+Expecting:
+    566.0
+ok
+Trying:
+    from funciones.genrnd import genrnd
+Expecting nothing
+ok
+Trying:
+    vector1 = genrnd()
+Expecting nothing
+ok
+Trying:
+    varianza_de_lista_ramdom = varianza(vector=vector1)
+Expecting nothing
+ok
+1 items had no tests:
+    varianza
+1 items passed all tests:
+   6 tests in varianza.varianza
+6 tests in 2 items.
+6 passed and 0 failed.
+Test passed.
+$>
+```
+
 - No todas poseen (por el momento) esta funcionalidad.
 
 ## Contributors
