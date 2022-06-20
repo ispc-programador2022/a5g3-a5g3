@@ -26,6 +26,8 @@ Colaboradores:
 
 • [Fioranelli, Bruno](https://github.com/brufio)
 
+• [Elizondo, Silvana](https://github.com/silelizondo)
+
 ## Testing
 
 Para checkear que el código de alguna función esté realizando
