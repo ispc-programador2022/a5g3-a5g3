@@ -28,6 +28,9 @@ Colaboradores:
 
 • [Elizondo, Silvana](https://github.com/silelizondo)
 
+•[Espiga, Nahuel](https://github.com/espiganahuel)
+
+
 ## Testing
 
 Para checkear que el código de alguna función esté realizando
